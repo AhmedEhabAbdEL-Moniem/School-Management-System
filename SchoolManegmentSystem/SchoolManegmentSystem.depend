@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654179678 source:d:\embedded c nti\sms project\schoolmanegmentsystem\main.c
+	"STD_TYPES.h"
+	"SMS_FUN.h"
+
+1654162361 d:\embedded c nti\sms project\schoolmanegmentsystem\std_types.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1654145380 d:\embedded c nti\sms project\schoolmanegmentsystem\sms_fun.h
+
+1654182487 source:d:\embedded c nti\sms project\schoolmanegmentsystem\sms_fun.c
+	"STD_TYPES.h"
+	"SMS_FUN.h"
+
